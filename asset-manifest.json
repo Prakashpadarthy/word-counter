@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Prakashpadarthy/word-counter.git/static/css/main.88d053a8.css",
+    "main.js": "/Prakashpadarthy/word-counter.git/static/js/main.6f20fe73.js",
+    "index.html": "/Prakashpadarthy/word-counter.git/index.html",
+    "main.88d053a8.css.map": "/Prakashpadarthy/word-counter.git/static/css/main.88d053a8.css.map",
+    "main.6f20fe73.js.map": "/Prakashpadarthy/word-counter.git/static/js/main.6f20fe73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88d053a8.css",
+    "static/js/main.6f20fe73.js"
+  ]
+}
